@@ -1,1 +1,1 @@
-# VHDL_Computer
+Designed a comprehensive computer system with specific instructions using VHDL programming language within the Quartus design environment, meticulously crafting every component, including the CPU, memory, and ALU. This project was also successfully synthesized and deployed onto a DE-10 LITE FPGA.
